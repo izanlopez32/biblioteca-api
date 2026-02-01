@@ -5,7 +5,7 @@ En esta aplicacion estaremos creando una API REST basica creada con **Node.js + 
 
 ------------------------------------------------------------
 TECNOLOGÍAS UTILIZADAS
------------------------------------------------------------
+------------------------------------------------------------
 
 - Node.js
 - Express(necesitaremos una version de Node superior a la 18)
