@@ -16,6 +16,7 @@ TECNOLOGÍAS UTILIZADAS
 ESTRUCTURA DEL PROYECTO
 ------------------------------------------------------------
 
+```
 biblioteca-api/
 ├── src/
 │    ├── app.js
@@ -25,6 +26,7 @@ biblioteca-api/
 │          └── books.js
 ├── package.json
 └── README.md
+```
 
 ------------------------------------------------------------
 INSTALACIÓN Y EJECUCIÓN
